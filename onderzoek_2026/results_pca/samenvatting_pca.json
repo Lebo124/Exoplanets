@@ -1,0 +1,57 @@
+{
+  "n": 5481,
+  "retained_components": 4,
+  "variance_threshold": 0.95,
+  "retained_variance": 0.976865213811979,
+  "all_variance_ratios": [
+    0.5505998102853963,
+    0.2802883474883469,
+    0.10500864564248162,
+    0.04096841039575418,
+    0.014237886777203456,
+    0.003758493696990067,
+    0.003386355668147042,
+    0.0007129339541551284,
+    0.0006847189234380557,
+    0.00035439716808713124
+  ],
+  "whiten": false,
+  "map_reversed_for_reading_direction": true,
+  "parameters": {
+    "nodes": 12,
+    "epochs": 1600,
+    "alpha": 0.05,
+    "sigma": 4.0
+  },
+  "seed": 42,
+  "initialization": "Same 12x10 log-model starting weights projected into retained PCA space",
+  "max_off_diagonal_score_covariance": 1.863878070538584e-17,
+  "full_PCA_preserves_distances_and_old_assignments": true,
+  "quantization_error_PCA_space": 0.14637070604948133,
+  "topographic_error": 0.287538770297391,
+  "adjusted_rand_vs_log": 0.8812119930100932,
+  "occupied_groups": 12,
+  "group_sizes": {
+    "1": 580,
+    "2": 354,
+    "3": 256,
+    "4": 274,
+    "5": 269,
+    "6": 222,
+    "7": 465,
+    "8": 353,
+    "9": 841,
+    "10": 683,
+    "11": 666,
+    "12": 518
+  },
+  "source_sha256": "dd989b041458fe5312fbd37b414706b77b45f685922f4f9ed16b8b55fe173933",
+  "source_retrieved_utc": "2026-10-17T23:36:52.955890+00:00",
+  "baseline_log_model_sha256": "1a4cb2edb99c17a90c42d68245440df0743e4f8888b32830efee828290833f69",
+  "training_residual_distance_quantiles": {
+    "0.5": 0.13077030467337908,
+    "0.9": 0.23931821869944278,
+    "0.95": 0.28003459002240116,
+    "0.99": 0.4028626552853935
+  }
+}

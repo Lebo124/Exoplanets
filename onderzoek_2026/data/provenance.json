@@ -1,0 +1,12 @@
+{
+  "retrieved_utc": "2026-10-17T23:36:52.955890+00:00",
+  "source_url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+pl_name%2Chostname%2Cdiscoverymethod%2Cdisc_year%2Cpl_bmassprov%2Cpl_controv_flag%2Cpl_bmasse%2Cpl_bmasselim%2Cpl_bmasse_reflink%2Cpl_rade%2Cpl_radelim%2Cpl_rade_reflink%2Cpl_dens%2Cpl_denslim%2Cpl_dens_reflink%2Cpl_insol%2Cpl_insollim%2Cpl_insol_reflink%2Cpl_eqt%2Cpl_eqtlim%2Cpl_eqt_reflink%2Cpl_orbper%2Cpl_orbperlim%2Cpl_orbper_reflink%2Cst_mass%2Cst_masslim%2Cst_mass_reflink%2Cst_rad%2Cst_radlim%2Cst_rad_reflink%2Cst_teff%2Cst_tefflim%2Cst_teff_reflink%2Cst_lum%2Cst_lumlim%2Cst_lum_reflink%2Cpl_bmasseerr1%2Cpl_bmasseerr2%2Cpl_radeerr1%2Cpl_radeerr2+from+pscomppars+order+by+pl_name&format=csv",
+  "query": "select pl_name,hostname,discoverymethod,disc_year,pl_bmassprov,pl_controv_flag,pl_bmasse,pl_bmasselim,pl_bmasse_reflink,pl_rade,pl_radelim,pl_rade_reflink,pl_dens,pl_denslim,pl_dens_reflink,pl_insol,pl_insollim,pl_insol_reflink,pl_eqt,pl_eqtlim,pl_eqt_reflink,pl_orbper,pl_orbperlim,pl_orbper_reflink,st_mass,st_masslim,st_mass_reflink,st_rad,st_radlim,st_rad_reflink,st_teff,st_tefflim,st_teff_reflink,st_lum,st_lumlim,st_lum_reflink,pl_bmasseerr1,pl_bmasseerr2,pl_radeerr1,pl_radeerr2 from pscomppars order by pl_name",
+  "sha256": "dd989b041458fe5312fbd37b414706b77b45f685922f4f9ed16b8b55fe173933",
+  "bytes": 9126616,
+  "documentation": [
+    "https://exoplanetarchive.ipac.caltech.edu/docs/pscp_about.html",
+    "https://exoplanetarchive.ipac.caltech.edu/docs/pscp_calc.html",
+    "https://exoplanetarchive.ipac.caltech.edu/docs/API_TD_columns.html"
+  ]
+}

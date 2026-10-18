@@ -1,0 +1,11 @@
+eigenschap,NASA_kolom,ontbrekend_of_limiet,berekend_door_NASA
+Massa (aarde),pl_bmasse,269,3035
+Straal (aarde),pl_rade,55,1539
+Dichtheid (g/cm³),pl_dens,221,4740
+Instraling (aarde),pl_insol,642,1325
+Evenwichtstemp. (K),pl_eqt,543,1090
+Omlooptijd (dagen),pl_orbper,360,0
+Stermassa (zon),st_mass,9,0
+Sterstraal (zon),st_rad,332,0
+Stertemperatuur (K),st_teff,308,0
+Sterlichtkracht (zon),st_lum,326,162

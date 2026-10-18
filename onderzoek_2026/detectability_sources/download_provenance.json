@@ -1,0 +1,423 @@
+{
+  "downloaded_utc": "2026-10-18T08:15:18.270285+00:00",
+  "source": "Rosenthal et al. 2021 California Legacy Survey I, public per-star injection-recovery tests",
+  "repository_tree_sha": "689d49178f8cab5a0c8d5291035786423c530953",
+  "files": [
+    {
+      "hostname": "14 Her",
+      "cls_name": "145675",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/145675_recoveries.csv",
+      "file": "recoveries/145675_recoveries.csv",
+      "bytes": 296097,
+      "sha256": "ea017075d09a97494898e1399be84d144f3d237209637dc107a5710d138fc0fc"
+    },
+    {
+      "hostname": "47 UMa",
+      "cls_name": "95128",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/95128_recoveries.csv",
+      "file": "recoveries/95128_recoveries.csv",
+      "bytes": 303363,
+      "sha256": "1bfc43326db5f0a1245e7805bc3885c1dda957461c7a9266db33f0c2de2a44df"
+    },
+    {
+      "hostname": "55 Cnc",
+      "cls_name": "75732",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/75732_recoveries.csv",
+      "file": "recoveries/75732_recoveries.csv",
+      "bytes": 301335,
+      "sha256": "31e6e43f0b4f783d8b3c8b6e3d5b0a83f2e1fd2ba135381b7cd194e68bb3a875"
+    },
+    {
+      "hostname": "GJ 15 A",
+      "cls_name": "1326",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/1326_recoveries.csv",
+      "file": "recoveries/1326_recoveries.csv",
+      "bytes": 308590,
+      "sha256": "7c81ab4b091a230c18c28371a591e0887a63a486610ea1e6e2509c55c75f2236"
+    },
+    {
+      "hostname": "GJ 179",
+      "cls_name": "hip22627",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/hip22627_recoveries.csv",
+      "file": "recoveries/hip22627_recoveries.csv",
+      "bytes": 281777,
+      "sha256": "1272693a996894fdce281a532dd0f208d20cf1298d8f18b4960d6b25945ee642"
+    },
+    {
+      "hostname": "GJ 849",
+      "cls_name": "hip109388",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/hip109388_recoveries.csv",
+      "file": "recoveries/hip109388_recoveries.csv",
+      "bytes": 293832,
+      "sha256": "abee2109a38fd67c698ccdcb88d645eebe5d09ef39082f6b1bb7a3a1f6b1a201"
+    },
+    {
+      "hostname": "HD 105618",
+      "cls_name": "105618",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/105618_recoveries.csv",
+      "file": "recoveries/105618_recoveries.csv",
+      "bytes": 242412,
+      "sha256": "c1cb8fe3c898d851f7dcf90025a7d6b468952c3b4433bf293edaf0cadb78a696"
+    },
+    {
+      "hostname": "HD 10697",
+      "cls_name": "10697",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/10697_recoveries.csv",
+      "file": "recoveries/10697_recoveries.csv",
+      "bytes": 282463,
+      "sha256": "2e19cb2731cfc014c5d40ec25fec8b13aa5afc9eb3d39a0f9737237be0bac3b8"
+    },
+    {
+      "hostname": "HD 110537",
+      "cls_name": "110537",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/110537_recoveries.csv",
+      "file": "recoveries/110537_recoveries.csv",
+      "bytes": 272658,
+      "sha256": "4280083642f27224f2928c9cd7a9e404f20ec32d6a0e4d7f4fe48b1c3eccc56f"
+    },
+    {
+      "hostname": "HD 114783",
+      "cls_name": "114783",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/114783_recoveries.csv",
+      "file": "recoveries/114783_recoveries.csv",
+      "bytes": 294283,
+      "sha256": "894bbdcc248a63ee8ae2c6a407f74ad88a48484e5beb45dd72d942595453f410"
+    },
+    {
+      "hostname": "HD 115404 A",
+      "cls_name": "115404a",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/115404a_recoveries.csv",
+      "file": "recoveries/115404a_recoveries.csv",
+      "bytes": 255806,
+      "sha256": "ac5393c0f35457134bb0b4c454b7f3eb86bb8087150a5560cbd3abcc9da53983"
+    },
+    {
+      "hostname": "HD 117207",
+      "cls_name": "117207",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/117207_recoveries.csv",
+      "file": "recoveries/117207_recoveries.csv",
+      "bytes": 287614,
+      "sha256": "bbe3fefcbb60ece6b7a47d521efc2e03146d4a7939c8434580226c550ecd58e1"
+    },
+    {
+      "hostname": "HD 12661",
+      "cls_name": "12661",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/12661_recoveries.csv",
+      "file": "recoveries/12661_recoveries.csv",
+      "bytes": 302059,
+      "sha256": "0f74dffec5008c303bacd976b0b43c123c92d52b64962843a985942c77e74156"
+    },
+    {
+      "hostname": "HD 128311",
+      "cls_name": "128311",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/128311_recoveries.csv",
+      "file": "recoveries/128311_recoveries.csv",
+      "bytes": 277201,
+      "sha256": "217af3dafd41925e59c2761ce08dd84eea0fc4c354b43eaee3b5128c5e787d06"
+    },
+    {
+      "hostname": "HD 134987",
+      "cls_name": "134987",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/134987_recoveries.csv",
+      "file": "recoveries/134987_recoveries.csv",
+      "bytes": 294737,
+      "sha256": "fe2036f8d35d4485d1b0c438f44e168bb2de287adb6455baf2b1542ac2779d0e"
+    },
+    {
+      "hostname": "HD 136925",
+      "cls_name": "136925",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/136925_recoveries.csv",
+      "file": "recoveries/136925_recoveries.csv",
+      "bytes": 289652,
+      "sha256": "983421eb75a9eedeb9c1c9c6b64e40ec83c78ab046fe6ac079f2ef4728096b86"
+    },
+    {
+      "hostname": "HD 13931",
+      "cls_name": "13931",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/13931_recoveries.csv",
+      "file": "recoveries/13931_recoveries.csv",
+      "bytes": 291982,
+      "sha256": "b9666c256d41853c1072af240ad752dacd4b0b418648398a3019c2ffc1b07834"
+    },
+    {
+      "hostname": "HD 141399",
+      "cls_name": "141399",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/141399_recoveries.csv",
+      "file": "recoveries/141399_recoveries.csv",
+      "bytes": 303384,
+      "sha256": "887f462ee6c93540f0461d46705422e11589d79c27caef55a86e7d4a27e940dc"
+    },
+    {
+      "hostname": "HD 149806",
+      "cls_name": "149806",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/149806_recoveries.csv",
+      "file": "recoveries/149806_recoveries.csv",
+      "bytes": 272839,
+      "sha256": "0df5df359fbd71f2a87ee45fee40832c467179be4724a42bec3d1e4bb231e7da"
+    },
+    {
+      "hostname": "HD 153557",
+      "cls_name": "153557",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/153557_recoveries.csv",
+      "file": "recoveries/153557_recoveries.csv",
+      "bytes": 258860,
+      "sha256": "3bc4b4cc5d6a21ff2391c2c4d274baf4db660e8ef071218fd7dd8a4c5a593f86"
+    },
+    {
+      "hostname": "HD 154345",
+      "cls_name": "154345",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/154345_recoveries.csv",
+      "file": "recoveries/154345_recoveries.csv",
+      "bytes": 299838,
+      "sha256": "0bc7105610437cba06d372d641ad5a9df21fcd37b537a8a4b60ccd6611ebedcb"
+    },
+    {
+      "hostname": "HD 156279",
+      "cls_name": "156279",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/156279_recoveries.csv",
+      "file": "recoveries/156279_recoveries.csv",
+      "bytes": 295259,
+      "sha256": "ee95ec1e8e891d2043d81525a68469f2c90a1cfdead11f6dbd1106fcc492cf1e"
+    },
+    {
+      "hostname": "HD 168443",
+      "cls_name": "168443",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/168443_recoveries.csv",
+      "file": "recoveries/168443_recoveries.csv",
+      "bytes": 299386,
+      "sha256": "bffaaae5a40ec7fb82ec795be3e316de31785c3a15a927f64c612a151cd04199"
+    },
+    {
+      "hostname": "HD 169830",
+      "cls_name": "169830",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/169830_recoveries.csv",
+      "file": "recoveries/169830_recoveries.csv",
+      "bytes": 280882,
+      "sha256": "003cb45fddf5b00f5ef1bc04be23e0699621402543be1613c58b4ceb6064396f"
+    },
+    {
+      "hostname": "HD 181234",
+      "cls_name": "181234",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/181234_recoveries.csv",
+      "file": "recoveries/181234_recoveries.csv",
+      "bytes": 284362,
+      "sha256": "66fd72f3d0889402c6a194ffd6a4a6f787f340219f0158e4610b290bc4edb00f"
+    },
+    {
+      "hostname": "HD 18143",
+      "cls_name": "18143",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/18143_recoveries.csv",
+      "file": "recoveries/18143_recoveries.csv",
+      "bytes": 278124,
+      "sha256": "f151d7fbdd02c5ee334805387cfbcf55c8f5ffc529aafdef3165ce6bf333efb5"
+    },
+    {
+      "hostname": "HD 183263",
+      "cls_name": "183263",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/183263_recoveries.csv",
+      "file": "recoveries/183263_recoveries.csv",
+      "bytes": 295017,
+      "sha256": "a5e9530f3506ef1d74af029b14a985034a8cb7e720bca139d513514f65d2ca09"
+    },
+    {
+      "hostname": "HD 187123",
+      "cls_name": "187123",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/187123_recoveries.csv",
+      "file": "recoveries/187123_recoveries.csv",
+      "bytes": 305096,
+      "sha256": "23fc0a7e26df73f1c01017cd980849535f888905603016c1eb6d5d622c13131c"
+    },
+    {
+      "hostname": "HD 190360",
+      "cls_name": "190360",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/190360_recoveries.csv",
+      "file": "recoveries/190360_recoveries.csv",
+      "bytes": 306174,
+      "sha256": "5cfc2f4f21ef79021fc7a71774c88d93e123325f9641bb16844696e6496ae6eb"
+    },
+    {
+      "hostname": "HD 213472",
+      "cls_name": "213472",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/213472_recoveries.csv",
+      "file": "recoveries/213472_recoveries.csv",
+      "bytes": 286480,
+      "sha256": "86a135f52584d6f5f6dd782614e8a288409042fc14fa50c2d5e93c410497be4e"
+    },
+    {
+      "hostname": "HD 217107",
+      "cls_name": "217107",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/217107_recoveries.csv",
+      "file": "recoveries/217107_recoveries.csv",
+      "bytes": 298115,
+      "sha256": "3cb41f1baa3b0eadf45047ebdc89607dc877f841e204a59613007deff09c0a10"
+    },
+    {
+      "hostname": "HD 222582",
+      "cls_name": "222582",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/222582_recoveries.csv",
+      "file": "recoveries/222582_recoveries.csv",
+      "bytes": 287538,
+      "sha256": "30faae9ae900729a981cd4b6084ee28e5aef6b89f6c2e7466df893e0314ebde8"
+    },
+    {
+      "hostname": "HD 24040",
+      "cls_name": "24040",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/24040_recoveries.csv",
+      "file": "recoveries/24040_recoveries.csv",
+      "bytes": 290625,
+      "sha256": "cb668518962a9638ec6733b41e868ab0bc19ff37b5244883ca77668f0f8b200f"
+    },
+    {
+      "hostname": "HD 26161",
+      "cls_name": "26161",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/26161_recoveries.csv",
+      "file": "recoveries/26161_recoveries.csv",
+      "bytes": 279882,
+      "sha256": "d7077c343e2d6e84cbbbadc44113091045e087e7c2562c6ef744ca1ffe56f1c7"
+    },
+    {
+      "hostname": "HD 28185",
+      "cls_name": "28185",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/28185_recoveries.csv",
+      "file": "recoveries/28185_recoveries.csv",
+      "bytes": 290220,
+      "sha256": "eabf03d0d470129230633327ab25bc0f61a4b496fe29f0760be469ac13178ab2"
+    },
+    {
+      "hostname": "HD 32963",
+      "cls_name": "32963",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/32963_recoveries.csv",
+      "file": "recoveries/32963_recoveries.csv",
+      "bytes": 292640,
+      "sha256": "c56ff26110a5b978b72d8a503015522d3ff00ad4e95347cc9c696417553cd139"
+    },
+    {
+      "hostname": "HD 38529",
+      "cls_name": "38529",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/38529_recoveries.csv",
+      "file": "recoveries/38529_recoveries.csv",
+      "bytes": 284862,
+      "sha256": "1b241df4a331ccee8d8fd0632323fcb72150b2830ea612d1b4c9cfd4b6f58c70"
+    },
+    {
+      "hostname": "HD 4203",
+      "cls_name": "4203",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/4203_recoveries.csv",
+      "file": "recoveries/4203_recoveries.csv",
+      "bytes": 286950,
+      "sha256": "39f9c8c074b1639b30a2dd6d4f9c6514f16f4aeabe6243b349ee2063ad0aaa33"
+    },
+    {
+      "hostname": "HD 50499",
+      "cls_name": "50499",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/50499_recoveries.csv",
+      "file": "recoveries/50499_recoveries.csv",
+      "bytes": 288541,
+      "sha256": "ce9cb8c011263fc3d5d4d305cc8857dffe30e6dbb6d4e70ddc75c62a83f09582"
+    },
+    {
+      "hostname": "HD 50554",
+      "cls_name": "50554",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/50554_recoveries.csv",
+      "file": "recoveries/50554_recoveries.csv",
+      "bytes": 280288,
+      "sha256": "20fbeb863c76f80d8b410b91194784c21251635a5e0c87fa40b88ad03bf82278"
+    },
+    {
+      "hostname": "HD 66428",
+      "cls_name": "66428",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/66428_recoveries.csv",
+      "file": "recoveries/66428_recoveries.csv",
+      "bytes": 294458,
+      "sha256": "56fc5536461d2ff46cffeb7318c3780aedcf16fcf19e59bcacccf15c22924570"
+    },
+    {
+      "hostname": "HD 68988",
+      "cls_name": "68988",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/68988_recoveries.csv",
+      "file": "recoveries/68988_recoveries.csv",
+      "bytes": 288853,
+      "sha256": "9fa938f7eb7fa5ebc5ac0531aa80afdbbd12aa07d62b0cb40540c26e268f8607"
+    },
+    {
+      "hostname": "HD 72659",
+      "cls_name": "72659",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/72659_recoveries.csv",
+      "file": "recoveries/72659_recoveries.csv",
+      "bytes": 288039,
+      "sha256": "808c85bb397e042e5666a9360c2c85fc8b3d30eeb67f2d3ffc5304a00cd33609"
+    },
+    {
+      "hostname": "HD 73344",
+      "cls_name": "73344",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/73344_recoveries.csv",
+      "file": "recoveries/73344_recoveries.csv",
+      "bytes": 258630,
+      "sha256": "fc7231576874e0e8c4fcdfc7c3554bffbdf6e518d4b2e0dd8f694c3c7f9c51f3"
+    },
+    {
+      "hostname": "HD 74156",
+      "cls_name": "74156",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/74156_recoveries.csv",
+      "file": "recoveries/74156_recoveries.csv",
+      "bytes": 289900,
+      "sha256": "0b0e4ff02970c73c27639c18a80e0937c6ab225ea0776c64fa2047654f63dd82"
+    },
+    {
+      "hostname": "HD 83443",
+      "cls_name": "83443",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/83443_recoveries.csv",
+      "file": "recoveries/83443_recoveries.csv",
+      "bytes": 271255,
+      "sha256": "0910510aa784381ff2394f67e6bc9aa17fbdf0beb0e07d2cdab5fe04abad57fb"
+    },
+    {
+      "hostname": "HD 87883",
+      "cls_name": "87883",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/87883_recoveries.csv",
+      "file": "recoveries/87883_recoveries.csv",
+      "bytes": 298074,
+      "sha256": "f576822aa8ee85a830b988aef23b6046a6a33edb9737446df9f3dc5f683de743"
+    },
+    {
+      "hostname": "HD 88072",
+      "cls_name": "88072",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/88072_recoveries.csv",
+      "file": "recoveries/88072_recoveries.csv",
+      "bytes": 272596,
+      "sha256": "ad1a0d5a9b7ad1ad31d8ca1da8e83a2d4ec053203ecceb82a4f7564e236996dc"
+    },
+    {
+      "hostname": "HD 92788",
+      "cls_name": "92788",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/92788_recoveries.csv",
+      "file": "recoveries/92788_recoveries.csv",
+      "bytes": 284822,
+      "sha256": "4de42c78ac202f2999249f5a5d3c53834a23d034097eb1355adba99e50c53852"
+    },
+    {
+      "hostname": "HR 5183",
+      "cls_name": "120066",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/120066_recoveries.csv",
+      "file": "recoveries/120066_recoveries.csv",
+      "bytes": 285742,
+      "sha256": "4e0febdbed30fcad222a78cf03a3a291570f5254378dee371dc7011fedea2f6f"
+    },
+    {
+      "hostname": "eps Eri",
+      "cls_name": "22049",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/22049_recoveries.csv",
+      "file": "recoveries/22049_recoveries.csv",
+      "bytes": 294890,
+      "sha256": "13d5f9c414a776c0e062a790b923e92adbb8f6227fd875c9bae123bdc10572f7"
+    },
+    {
+      "hostname": "ups And",
+      "cls_name": "9826",
+      "url": "https://raw.githubusercontent.com/leerosenthalj/CLSI/master/completeness/recoveries_all/9826_recoveries.csv",
+      "file": "recoveries/9826_recoveries.csv",
+      "bytes": 289137,
+      "sha256": "c98d116715f81013328d539ec408a2c4cff19f395da3220ee1861cbfe3594099"
+    }
+  ]
+}

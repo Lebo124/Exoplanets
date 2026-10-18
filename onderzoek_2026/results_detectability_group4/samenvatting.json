@@ -1,0 +1,42 @@
+{
+  "group4_planets": 274,
+  "group4_host_stars": 256,
+  "discovery_methods_planet_counts": {
+    "Radial Velocity": 250,
+    "Imaging": 13,
+    "Transit": 4,
+    "Astrometry": 3,
+    "Transit Timing Variations": 3,
+    "Eclipse Timing Variations": 1
+  },
+  "tested_hosts": 52,
+  "tested_group4_planets": 57,
+  "not_assessed_hosts": 204,
+  "strong_hosts": 48,
+  "conservative_hosts": 24,
+  "strong_hosts_without_group1_known": 42,
+  "conservative_hosts_without_group1_known": 22,
+  "tested_injections": 2347,
+  "recovered_injections": 2278,
+  "benchmark": {
+    "minimum_mass_MJ": [
+      0.3,
+      3
+    ],
+    "period_days": [
+      2,
+      20
+    ],
+    "minimum_tests": 20,
+    "strong_point_estimate_threshold": 0.9,
+    "conservative_Wilson95_lower_threshold": 0.9,
+    "eccentricities": "Use original published Kipping beta-distribution injections; not reweighted."
+  },
+  "important_limit": "A recovery fraction is averaged over finite published signals in this bin, not a guarantee for every individual mass, period, orbital phase, eccentricity or inclination; sin(i) is part of the benchmark minimum mass. Tests use the 2021 published survey dataset, not all 2026 observations. 204 not-assessed stars do not imply inability to detect.",
+  "sources": [
+    "https://doi.org/10.3847/1538-4365/abe23c",
+    "https://github.com/leerosenthalj/CLSI/tree/master/completeness/recoveries_all",
+    "https://github.com/leerosenthalj/CLSII/tree/master/legacy_tables"
+  ],
+  "model_sha256": "add16dc8461176b3e935c87f106950f018ce8e0613c5b9add2f54c3ba497175f"
+}

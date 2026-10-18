@@ -1,0 +1,46 @@
+{
+  "group1_planets": 580,
+  "host_stars": 579,
+  "hosts_with_other_known_planets": 27,
+  "hosts_with_extra_giant_proxy": 22,
+  "fraction_hosts_with_extra_giant_proxy": 0.037996545768566495,
+  "hosts_with_heavy_companion": 5,
+  "hosts_with_only_heavy_not_extra_giant": 4,
+  "hosts_with_neither_extra_giant_nor_heavy_but_other_planets": 1,
+  "hosts_no_other_planets_known": 552,
+  "distinct_extra_giant_companions": 26,
+  "giant_pairs": 27,
+  "heavy_systems": {
+    "CoRoT-20": "CoRoT-20 c",
+    "HAT-P-13": "HAT-P-13 c",
+    "HD 68988": "HD 68988 c",
+    "KOI-12": "Kepler-448 c",
+    "ups And": "ups And c"
+  },
+  "sensitivity": [
+    {
+      "massagrens_aarde": 30,
+      "alternatieve_straalgrens_aarde": 8,
+      "sterren_met_extra_reus": 22
+    },
+    {
+      "massagrens_aarde": 50,
+      "alternatieve_straalgrens_aarde": 8,
+      "sterren_met_extra_reus": 22
+    },
+    {
+      "massagrens_aarde": 95.34839999999998,
+      "alternatieve_straalgrens_aarde": 8,
+      "sterren_met_extra_reus": 22
+    },
+    {
+      "massagrens_aarde": 100,
+      "alternatieve_straalgrens_aarde": 8,
+      "sterren_met_extra_reus": 22
+    }
+  ],
+  "definition": "At least 50 Earth masses from non-infilled mass or Msini (including lower bound), OR non-infilled radius >=8 Earth radii. Upper limits cannot qualify. Known mass/minimum mass >=13 MJ is reported separately. Composition not directly established.",
+  "source_sha256": "dd989b041458fe5312fbd37b414706b77b45f685922f4f9ed16b8b55fe173933",
+  "source_retrieved_utc": "2026-10-17T23:36:52.955890+00:00",
+  "host_matching": "Exact NASA hostname; companions around a separately named binary star are not automatically merged."
+}

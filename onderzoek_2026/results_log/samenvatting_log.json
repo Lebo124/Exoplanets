@@ -1,0 +1,46 @@
+{
+  "n": 5481,
+  "parameters": {
+    "nodes": 12,
+    "epochs": 1600,
+    "alpha": 0.05,
+    "sigma": 4.0
+  },
+  "seed": 42,
+  "transform": "log10 of all 10 positive physical feature values, then per-feature MinMaxScaler; no clipping",
+  "source_sha256": "dd989b041458fe5312fbd37b414706b77b45f685922f4f9ed16b8b55fe173933",
+  "source_retrieved_utc": "2026-10-17T23:36:52.955890+00:00",
+  "old_model_sha256": "4cb7e432d8f0b2f2ff461996b5ab95c2ebcc6a0d8ba805b3c900bdc30c47b01e",
+  "quantization_error_log_space": 0.1530932153815447,
+  "topographic_error": 0.28936325488049625,
+  "adjusted_rand_vs_linear": 0.3871545757932037,
+  "occupied_groups": 12,
+  "group_sizes": {
+    "1": 604,
+    "2": 358,
+    "3": 147,
+    "4": 260,
+    "5": 343,
+    "6": 224,
+    "7": 492,
+    "8": 344,
+    "9": 849,
+    "10": 686,
+    "11": 680,
+    "12": 494
+  },
+  "solar_sources": [
+    "https://nssdc.gsfc.nasa.gov/planetary/factsheet/",
+    "https://exoplanetarchive.ipac.caltech.edu/docs/pscp_calc.html"
+  ],
+  "solar_out_of_range_features": {
+    "Mercurius": [],
+    "Venus": [],
+    "Aarde": [],
+    "Mars": [],
+    "Jupiter": [],
+    "Saturnus": [],
+    "Uranus": [],
+    "Neptunus": []
+  }
+}
